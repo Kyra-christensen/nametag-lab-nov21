@@ -28,12 +28,12 @@ main{
     color: lightskyblue;
     margin-top: 0;
     margin-bottom: 10px;
-    width: 1600px;
-    height: 155px;
-    font-size: 100px;
+    width: auto;
+    height: auto;
+    font-size: 75px;
+    text-align: center;
     text-shadow: 2px 2px 2px rgba(125, 191,232,0.29);
     border-bottom: dotted;
-    background-attachment: fixed;
 }
 
 
