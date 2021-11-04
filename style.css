@@ -88,10 +88,11 @@ main{
 
 .my-name {
     background-color: white;
-    height: 50px;
-    padding-top: 5%;
-    padding-bottom: 5%;
-
+    height: 25px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0;
+    font-size: 25px;
 }
 
 footer {
@@ -99,4 +100,10 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+.my-pronouns {
+    margin-top: 0;
+    background-color: white;
+    height: 30px;
 }
